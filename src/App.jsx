@@ -5,7 +5,6 @@ function App() {
   return (
     <>
       <div className="App">
-        {" "}
         <Navbar bg="dark" variant="dark">
           <Container>
             <Navbar.Brand href="#">Checkpoint One</Navbar.Brand>
